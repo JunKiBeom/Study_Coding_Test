@@ -1,10 +1,10 @@
 # [level 0] 두 수의 나눗셈 - 120806 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120806?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120806?language=swift) 
 
 ### 성능 요약
 
-메모리: 74.7 MB, 시간: 0.02 ms
+메모리: 16.2 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 03월 30일 17:51:37
+2024년 04월 13일 18:05:11
 
 ### 문제 설명
 

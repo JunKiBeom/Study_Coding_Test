@@ -1,10 +1,10 @@
 # [level 0] 각도기 - 120829 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=swift) 
 
 ### 성능 요약
 
-메모리: 76.1 MB, 시간: 0.02 ms
+메모리: 16.3 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 03월 30일 17:53:52
+2024년 04월 13일 18:09:52
 
 ### 문제 설명
 

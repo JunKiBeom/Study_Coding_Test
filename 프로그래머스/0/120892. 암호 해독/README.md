@@ -1,10 +1,10 @@
 # [level 0] 암호 해독 - 120892 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120892?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120892?language=swift) 
 
 ### 성능 요약
 
-메모리: 75 MB, 시간: 3.24 ms
+메모리: 16.4 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 18일 00:03:31
+2024년 04월 18일 00:11:12
 
 ### 문제 설명
 

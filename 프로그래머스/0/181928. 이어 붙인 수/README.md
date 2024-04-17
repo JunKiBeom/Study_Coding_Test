@@ -1,10 +1,10 @@
 # [level 0] 이어 붙인 수 - 181928 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181928) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181928?language=swift) 
 
 ### 성능 요약
 
-메모리: 83 MB, 시간: 4.61 ms
+메모리: 16.2 MB, 시간: 0.07 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 17일 23:44:53
+2024년 04월 17일 23:54:55
 
 ### 문제 설명
 

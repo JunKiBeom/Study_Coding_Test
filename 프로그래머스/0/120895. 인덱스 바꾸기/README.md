@@ -1,10 +1,10 @@
 # [level 0] 인덱스 바꾸기 - 120895 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120895?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120895?language=swift) 
 
 ### 성능 요약
 
-메모리: 75.2 MB, 시간: 0.03 ms
+메모리: 16.2 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 21일 18:55:35
+2024년 04월 21일 19:00:27
 
 ### 문제 설명
 

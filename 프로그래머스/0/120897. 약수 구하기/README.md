@@ -1,10 +1,10 @@
 # [level 0] 약수 구하기 - 120897 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120897) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120897?language=swift) 
 
 ### 성능 요약
 
-메모리: 74.5 MB, 시간: 2.08 ms
+메모리: 16.5 MB, 시간: 0.13 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 25일 20:00:23
+2024년 04월 25일 20:03:20
 
 ### 문제 설명
 

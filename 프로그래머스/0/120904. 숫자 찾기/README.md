@@ -1,10 +1,10 @@
 # [level 0] 숫자 찾기 - 120904 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120904) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120904?language=swift) 
 
 ### 성능 요약
 
-메모리: 78.9 MB, 시간: 0.04 ms
+메모리: 16.5 MB, 시간: 0.04 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 25일 21:06:04
+2024년 05월 07일 20:01:35
 
 ### 문제 설명
 

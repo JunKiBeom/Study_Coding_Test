@@ -1,18 +1,22 @@
 class Solution {
     public int solution(int n) {
         int answer = 0;
+        int start = 1, end = 1;
+        int sum = 1;
         
-        for (int i = 1; i <= n; i ++) {
-            int tmp = 0;
-            for (int j = i; j <=n; j++) {
-                tmp += j;
-                if (tmp == n) {
-                    System.out.println(j);
-                    answer++;
-                }
-                else if (tmp > n) {
-                    break;
-                }
+        while (start <= n) {
+            if (sum == n) {
+                answer++;
+                sum -= start;
+                start++;
+            }
+            else if (sum < n) {
+                end++;
+                sum += end;
+            }
+            else {
+                sum -= start;
+                start++;
             }
         }
         
